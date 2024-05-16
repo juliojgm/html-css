@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+ul {
+    display: flex ;
+    justify-content: space-around;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #5BBE42;
+    float: right;
+}
+
+.center {
+    text-align: center;
+}
